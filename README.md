@@ -1,6 +1,6 @@
 ## Hi there, thanks for stopping by 👋
 
-I'm Andrea Gil-Lopez(she/her), a current sophomore at Rutgers University majoring in Computer and Political Science.
+I'm Andrea Gil-Lopez(she/her), a current sophomore at Rutgers University double majoring in Computer and Political Science.
 
 #### 🔭 What am I working on? 
 - Trying to create my website!
@@ -16,7 +16,6 @@ I'm Andrea Gil-Lopez(she/her), a current sophomore at Rutgers University majorin
 
 #### ❤️ Passionate about
 - Diversity in tech
-- 
 
 
 
