@@ -2,18 +2,21 @@
 
 I'm Andrea Gil-Lopez(she/her), a current sophomore at Rutgers University majoring in Computer and Political Science.
 
-
+#### 🔭 What am I working on? 
+- Trying to create my website!
 
 #### 👩🏽💻 Experience
 - Research Assistant (Fall 2020)
-- Computer Science Peer Mentor (Spring and Fall 2020)
+- Computer Science Peer Tutor (Spring 2020 - Present)
 
 #### 🎨 Interested in
 - Software engineering
 - Data science
+- Public Policy
 
 #### ❤️ Passionate about
 - Diversity in tech
+- 
 
 
 
