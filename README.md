@@ -1,4 +1,4 @@
-## Hi there, thanks for stopping by 👋
+## Hi there 👋
 
 I'm Andrea Gil-Lopez(she/her), a current sophomore at Rutgers University double majoring in Computer and Political Science.
 
