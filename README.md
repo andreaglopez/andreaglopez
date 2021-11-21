@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi! It's Andrea 👋
 
-I'm Andrea Gil-Lopez(she/her), a current junior at Rutgers University double majoring in Computer and Political Science.
+I'm a current junior at Rutgers University double majoring in Computer and Political Science. I am very interested in Data Science
+
+- 🧍🏽‍♀️ Pronouns: she/her
+- ⚡ Fun fact: I love Marvel...ask me about my favorite character 
 
 
 
