@@ -1,8 +1,7 @@
 ## Hi! It's Andrea 👋
 
-I'm a current junior at Rutgers University double majoring in Computer and Political Science. I am very interested in Data Science
-
-- ⚡ Fun fact: I love Marvel...ask me about my favorite character 
+I'm a current senior at Rutgers University double majoring in Computer and Political Science. 
+ 
 
 
 
